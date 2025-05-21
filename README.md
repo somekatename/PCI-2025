@@ -1,1 +1,1 @@
-В данном репозитории представлены файлы, относящиеся к ВКР "Методы роевого интеллекта для поиска оптимальной по стоимости траектории" Латановой Екатерины Вячеславовны, гр. 21.Б01-ПУ
+Here you can research files with implementation of bat algorithm and artificial bee colony algorithm
